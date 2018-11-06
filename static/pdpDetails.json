@@ -1,0 +1,22 @@
+{
+    "ProductInfoResponsePayload": {
+        "products": [
+            {
+                "productId": "5230915",
+                "productTitle": "MONSTER HIGH NOVELTY JEAN",
+                "description": [
+                    "Item # 2931929",
+                    "Super soft heavy knit sweater with ribbed trim detailing on sleeves and neckline",
+                    "Embellished critter on font",
+                    "Long sleeve, crew neck"
+                ],
+                "details": [
+                    "60% Cotton/40% Polyester ",
+                    " Machine wash cold ",
+                    " Imported"
+                ]
+            }
+        ]
+    },
+    "error": []
+}
